@@ -22,5 +22,4 @@ If you share a passion for AI, generative models, or prompt-based AI, let's conn
 You can reach me at [laksh.menroy.21@gmail.com](mailto:your@email.com).
 
 ### 🔗 Links
-[Portfolio](https://github.com/lakshmenroy/lakshmenroy-profile)
 [LinkedIn](www.linkedin.com/in/lakshhmenroy)
