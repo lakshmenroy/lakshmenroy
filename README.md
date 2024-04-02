@@ -1,4 +1,4 @@
-## Hi there, I'm Lakshmen! 👋
+## Hi there, I'm Laksh Menroy! 👋
 
 ### 🚀 About Me
 I'm an AI enthusiast with a passion for integrating advanced technology seamlessly into everyday life. With a strong foundation in Python programming, I specialize in ensuring software systems run smoothly and efficiently.
