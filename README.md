@@ -6,6 +6,33 @@ I'm an AI enthusiast with a passion for integrating advanced technology seamless
 ### 🎨 Creative Exploration
 Beyond my professional role, I delve into the captivating world of generative AI and prompt-based methodologies. I love experimenting with models to generate creative outputs, pushing the boundaries of what AI can achieve.
 
+## ⚡ Technologies I use
+
+<div align="center">
+<table align="center">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/python.jpeg" width="65px"/>
+            <br /> Python
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/jupyter.png" width="65px"/>
+            <br /> Jupyter
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/pytorch.png" width="65px"/>
+            <br /> Pytorch
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/scikitlearn.png" width="65px"/>
+            <br /> Scikit Learn
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/docker.png" width="65px"/>
+            <br /> Docker
+        </td>
+    </tr>
+</table>
+</div>
 ### 💡 Problem-Solving
 My commitment lies in advancing the possibilities of AI by tackling complex challenges head-on. Whether it's optimizing algorithms or finding innovative solutions, I thrive on pushing the limits of technology to make a meaningful impact.
 
