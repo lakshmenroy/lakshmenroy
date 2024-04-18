@@ -27,8 +27,8 @@ Beyond my professional role, I delve into the captivating world of generative AI
             <br /> Scikit Learn
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/docker.png" width="65px"/>
-            <br /> Docker
+            <img src="./assets/icons/kubernetes.png" width="65px"/>
+            <br /> Kubernetes
         </td>
     </tr>
 </table>
