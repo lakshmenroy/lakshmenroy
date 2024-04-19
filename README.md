@@ -6,7 +6,7 @@ I'm an AI enthusiast with a passion for integrating advanced technology seamless
 ### 🎨 Creative Exploration
 Beyond my professional role, I delve into the captivating world of generative AI and prompt-based methodologies. I love experimenting with models to generate creative outputs, pushing the boundaries of what AI can achieve.
 
-## ⚡ Technologies I use
+### ⚡ Technologies I use
 
 <div align="center">
 <table align="center">
