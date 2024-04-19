@@ -46,7 +46,7 @@ I am here to connect with like-minded professionals, AI enthusiasts, and potenti
 If you share a passion for AI, generative models, or prompt-based AI, let's connect! Together, we can explore the vast possibilities at the intersection of innovation and artificial intelligence.
 
 ### 📫 How to reach me
-You can reach me at [laksh.menroy.21@gmail.com](mailto:your@email.com).
+You can reach me at [lakshh2105@gmail.com](mailto:your@email.com).
 
 ### 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lakshhmenroy)
