@@ -33,6 +33,7 @@ Beyond my professional role, I delve into the captivating world of generative AI
     </tr>
 </table>
 </div>
+
 ### 💡 Problem-Solving
 My commitment lies in advancing the possibilities of AI by tackling complex challenges head-on. Whether it's optimizing algorithms or finding innovative solutions, I thrive on pushing the limits of technology to make a meaningful impact.
 
