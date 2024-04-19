@@ -22,7 +22,7 @@ Beyond my professional role, I delve into the captivating world of generative AI
             <img src="./assets/icons/pytorch.png" width="65px"/>
             <br /> Pytorch
         </td>
-        <td align="center" width="140" height="112.43">
+        <td align="center" width="140" height="120.43">
             <img src="./assets/icons/scikitlearn.png" width="65px"/>
             <br /> Scikit Learn
         </td>
